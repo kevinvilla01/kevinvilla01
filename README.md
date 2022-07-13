@@ -2,9 +2,9 @@
 #### I am aspiring to be a data scientist
 I am 18 years old, I am currently a high school student, I am passionate about everything related to Data Science and Machine Learning.
 
-Skills: Python / R / SQL
+Skills: Python / SQL
 
-- 🌱 I’m currently learning Machine Learning using Python 
+- 🌱 I’m currently learning R programming language 
 - 📫 How to reach me: [TikTok](https://www.tiktok.com/@kevin01villa01) 
 
 
