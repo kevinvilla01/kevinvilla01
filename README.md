@@ -5,7 +5,7 @@ I am 18 years old, I am currently a high school student, I am passionate about e
 Skills: Python / SQL
 
 - 🌱 I’m currently learning R programming language 
-- 📫 How to reach me: [TikTok](https://www.tiktok.com/@kevin01villa01) 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kevin-donaldo-bda/) 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kevinvilla01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kevin-donaldo-villa-saldaña-9a9820228//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Kevhonnn)  
