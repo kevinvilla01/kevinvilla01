@@ -2,7 +2,7 @@
 #### I am aspiring to be a data scientist
 I am 20 years old, I am currently a high school student, I am passionate about everything related to Data Science and Machine Learning.
 
-Skills: Python / SQL / C / R / Javascript
+Skills: Python / SQL / C / R / Javascript / PHP
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kevin-donaldo-bda/) 
 
