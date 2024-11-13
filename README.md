@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Kevin Villa
-#### I am aspiring to be a data scientist
+#### I am a SEED intern 
 I am 20 years old, I am currently a high school student, I am passionate about everything related to Data Science and Machine Learning.
 
 Skills: Python / SQL / C / R / Javascript / PHP
