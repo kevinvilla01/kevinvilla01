@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kevin Villa
 #### I'm currently in an internship
-I am 20 years old, I am currently a high school student, I am passionate about everything related to Data Science and Machine Learning.
+I am 21 years old, I am currently a high school student, I am passionate about everything related to Data Science and Machine Learning.
 
 Skills: Python / SQL / C / R / Javascript / PHP
 
