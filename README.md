@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kevin Villa
 #### Currently a fulltime Data Analyst and Learner
-I am 21 years old, Data Analyst, Passionate about everything related to Data Science and Machine Learning.
+I am 21 years old, Automation Developer, Passionate about everything related to Data Science and Machine Learning.
 
 Skills: Python / SQL / C / R / Javascript / PHP
 
